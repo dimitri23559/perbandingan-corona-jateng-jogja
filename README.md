@@ -6,5 +6,5 @@
 
 <h1>data perbandingan antara jogja dan jateng menggunakan python 
         library yang di gunakan yaitu matplotlib dan numpy
-        dan untuk link csv yang di gunakan yaitu <a href="https://drive.google.com/drive/folders/1n1hBIm19x_vXJejangUtbzCos_ROK_2-?usp=sharing%22%3Edisini</a>
+        dan untuk link csv yang di gunakan yaitu <a href="https://drive.google.com/file/d/19KNP_lzEmxY4G8uB--W7zE6qSeYbkHwT/view?usp=sharing">disini</a>
     </h1>
